@@ -1,0 +1,14 @@
+{
+  "name": "belter_creole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dictionary_loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-spreadsheet": "^3.2.0"
+  }
+}
