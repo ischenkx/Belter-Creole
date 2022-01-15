@@ -75,6 +75,8 @@ kelowda = how many/much
 
 [Small course](https://app.memrise.com/course/1102952/belter-creole/1/)
 
+[Translator](https://lingojam.com/BelterTranslator)
+
 # Ischenko's extension
-Due to the lack of the words in the language, I propose a new keyword -"wu" (pronounced like "vu"). If you want to use some english word, that currently has no translation in Belter Creole, you can use that english word directly in your speech, but "wu" must be placed after it.
-For example, "knights of nigts" would be "knihgts wu fo nax".
+Due to the lack of the words in the language, I propose a new keyword - "wu" (pronounced like "vu"). If you want to use some english word, that currently has no translation in Belter Creole (or you don't have time to look it up), you can use the english word directly in your speech, but "wu" must be placed after it.
+For example, "knights of nights" would be "knights wu fo nax".
