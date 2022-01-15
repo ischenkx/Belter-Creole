@@ -42,13 +42,21 @@ Very similar to tenses (constructed via modifiers too), but instead of the time 
 Questions are formed by adding *-ke* at the end of the sentence.
 
 kemang = who
+
 kepelésh = where
+
 ketim = when
+
 keting = what
+
 kewe = how
+
 kéweting = what kind/type
+
 kéradzhang = why, for what reason
+
 kédawang = which
+
 kelowda = how many/much
 
 # Numbers (fuck, it is not gonna be that ez)
