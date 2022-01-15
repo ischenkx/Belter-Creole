@@ -3,17 +3,17 @@ Belter Creole Crash Course
 # Phonology
 The pronunciation of most letters seems to be the same as in english, except for 'x', that sounds like 'kh'.
 *Special cases*:
- - 'ch' -- "**ch**eck"
- - 'dzh' -- "**j**ump"
- - 'ng' -- "si**ng**" (**g** is dropped)
- - 'ny' -- "ca**ny**on"
- - 'ow' -- "th**ough**t" or "n**o**t"
- - 'sh' -- "**sh**eep"
- - 'x' -- "**h**ere"
+ - 'ch' -"**ch**eck"
+ - 'dzh' -"**j**ump"
+ - 'ng' -"si**ng**" (**g** is dropped)
+ - 'ny' -"ca**ny**on"
+ - 'ow' -"th**ough**t" or "n**o**t"
+ - 'sh' -"**sh**eep"
+ - 'x' -"**h**ere"
 
 # Articles
-"wa" -- "*a*", "*an*
-"da" -- "*the*"
+"wa" -"*a*", "*an*
+"da" -"*the*"
 
 # Pronouns
 |     | Singular     | Plural                |
@@ -68,10 +68,13 @@ kelowda = how many/much
 
 # Resources
 [Dictionary](https://docs.google.com/spreadsheets/d/18EYF96hf9d3huND26ztVmf12w713HD2gl9oCIfXBkyo/edit#gid=0)
+
 [Wiki](https://en.wikipedia.org/wiki/Belter_Creole)
+
 [Fandom](https://expanse.fandom.com/wiki/Belter_Creole)
+
 [Small course](https://app.memrise.com/course/1102952/belter-creole/1/)
 
 # Ischenko's extension
-Due to the lack of the words in the language, I propose a new keyword -- "wu" (pronounced like "vu"). If you want to use some english word, that currently has no translation in Belter Creole, you can use that english word directly in your speech, but "wu" must be placed after it.
+Due to the lack of the words in the language, I propose a new keyword -"wu" (pronounced like "vu"). If you want to use some english word, that currently has no translation in Belter Creole, you can use that english word directly in your speech, but "wu" must be placed after it.
 For example, "knights of nigts" would be "knihgts wu fo nax".
